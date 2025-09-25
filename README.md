@@ -5,6 +5,7 @@ from sqlmodel import Field, Session, SQLModel, create_engine, select
 from typing import Optional
 Ya que debemos hacer una base de datos "Quemada" desde el código. 
 A continuacion vamos a proseguir con el la creacion de la base de datos creando una clase usando la importacion del sql
+ademas de crear tambien la funcion que es la que va a agregar los usuarios y contraeeñas en la base de datos
 
 
 
